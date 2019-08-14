@@ -2,8 +2,8 @@
 
 public class BaseMatrix {
     final int[][] b = {
-            { 2,-1},
             {-1,-2},
+            { 2,-1},
             { 2, 1},
             {-2, 1},
             { 1, 2},
